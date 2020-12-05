@@ -1,5 +1,5 @@
 <h1 align="center">Todo List React</h1>
-![todolist](https://user-images.githubusercontent.com/49158754/101263152-116ebc00-373b-11eb-806f-0bb886e1db9e.gif)
+  <img src="https://user-images.githubusercontent.com/49158754/101263152-116ebc00-373b-11eb-806f-0bb886e1db9e.gif" width="500"/>
 
 ---
 ## 📋 Index
@@ -42,6 +42,7 @@ It will open your browser: `http://localhost:3000/`
 <a href="https://www.linkedin.com/in/marciliocorreia/" title="MarcilioCorreia"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/49158754?s=460&u=8d2c3e8f7e3441a6b150758a720e7e4379e36407&v=4" width="100px;" alt="LinkedIn Marcílio Correia"/></a>
 
 🚀 Developed by Marcílio Correia 👋 Feel free to connect!
+
 
 [![Gmail Badge](https://img.shields.io/badge/-marcilio.msc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcilio.msc@gmail.com)](mailto:marcilio.msc@gmail.com)
 
