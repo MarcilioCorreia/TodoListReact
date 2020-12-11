@@ -1,5 +1,7 @@
 <h1 align="center">Todo List React</h1>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/49158754/101263152-116ebc00-373b-11eb-806f-0bb886e1db9e.gif" width="500"/>
+</p>
 
 ---
 ## 📋 Index
